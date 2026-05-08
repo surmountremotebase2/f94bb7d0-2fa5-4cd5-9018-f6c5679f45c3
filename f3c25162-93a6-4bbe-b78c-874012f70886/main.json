@@ -1,1 +1,1 @@
-{"allocations": {"AMZN": 20.0, "SPOT": 15.0, "NVDA": 12.0, "TSLA": 10.0, "META": 10.0, "NFLX": 8.0, "LULU": 7.0, "SBUX": 6.0, "ETSY": 6.0, "RBLX": 6.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"AMZN": 20.0, "SPOT": 15.0, "NVDA": 12.0, "TSLA": 10.0, "META": 10.0, "NFLX": 8.0, "LULU": 7.0, "SBUX": 6.0, "ETSY": 6.0, "RBLX": 6.0}, "frequency": 30, "name": "Untitled Strategy 3", "period": "days"}
